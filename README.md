@@ -5,7 +5,8 @@
 1. Create the emtpy DB (automatically by rails new)
 2. Create migration files/model
 3. Migrate
-4. Seed
+4. Validations
+5. Seed
 
 ## R/C/V
 1. Routes
