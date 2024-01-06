@@ -1,24 +1,23 @@
-# README
+# RAILS CRUD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Data layer
 
-Things you may want to cover:
+1. Create the emtpy DB (automatically by rails new)
+2. Create migration files/model
+3. Migrate
+4. Seed
 
-* Ruby version
+## R/C/V
+1. Routes
+2. Controller
+3. View
 
-* System dependencies
+### Create
 
-* Configuration
+### Read 
+a. Read all
+b. Read one (details)
 
-* Database creation
+### Udpate
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Delete
